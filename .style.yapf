@@ -1,0 +1,12 @@
+[style]
+based_on_style = google
+split_before_bitwise_operator = True
+split_before_dict_set_generator = True
+split_before_logical_operator = True
+
+# above are difference between us and google style
+# below are our customizes from the default style
+
+arithmetic_precedence_indication = True
+split_before_dot = True
+split_before_first_argument = True
